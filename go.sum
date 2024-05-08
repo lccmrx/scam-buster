@@ -1,0 +1,14 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/haydenwoodhead/burner.kiwi v0.0.0-20230903010512-ffaa3c7fec78 h1:jWMzN5b3TIdEVcxlfKd70BXCYOVIlfxIh+M4ObyHvsE=
+github.com/haydenwoodhead/burner.kiwi v0.0.0-20230903010512-ffaa3c7fec78/go.mod h1:AOB+EYdlOSZDLerJxk8eqQaXoJ7v3yjoh3ZpM9hZqTI=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/sethvargo/go-password v0.3.0 h1:OLFHZ91Z7NiNP3dnaPxLxCDXlb6TBuxFzMvv6bu+Ptw=
+github.com/sethvargo/go-password v0.3.0/go.mod h1:p6we8DZ0eyYXof9pon7Cqrw98N4KTaYiadDml1dUEEw=
+github.com/stretchr/testify v1.7.1 h1:5TQK59W5E3v0r2duFAb7P95B6hEeOyEnHRa8MjYSMTY=
+github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c h1:dUUwHk2QECo/6vqA44rthZ8ie2QXMNeKRTHCNY2nXvo=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
